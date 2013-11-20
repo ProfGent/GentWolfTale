@@ -1,0 +1,23 @@
+
+Notes about 'A Wolf's Tale':	
+	
+Themes: 	Loneliness,
+		Escapism,
+		Bonding,
+		Relationship with animals.
+
+Controls: 	Tight controls for platforming and puzzels (Super Mario/Spelunky-ish).
+		Sonic/Super Meat Boy style on dog for action.
+
+Ideas: 		Abe style puzzels with moving the dog / stealthish things etc. 
+		Rushing/time limits on dog.
+
+		Buttons with weight requirement.
+		Bridges with weight limit.
+		"Play Dead" = dog invisible to enemies.
+		Dog digging up items.
+		Low probability rare item finds.
+		Enemies that only want to attack dog.
+		Go too far away from the dog then you get a mini-camera of the dog's current location.
+		Enemies can weigh buttons/bridges down.
+		Enemies that only move when room is dark. (Turn to stone in light)
